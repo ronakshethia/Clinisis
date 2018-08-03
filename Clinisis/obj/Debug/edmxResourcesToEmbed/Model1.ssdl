@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PatientDBModel.Store" Provider="System.Data.SQLite.EF6" ProviderManifestToken="data source=E:\Database\PatientDB.db" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CollectionTable">
+    <Key>
+      <PropertyRef Name="CollectionID" />
+    </Key>
+    <Property Name="CollectionID" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id" Type="integer" Nullable="false" />
+    <Property Name="Fee" Type="int" Nullable="false" />
+    <Property Name="Outstanding" Type="int" Nullable="false" />
+    <Property Name="Treatment" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="Rx" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="Date" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PatientEntryTable">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Age" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Address" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="PhoneNo" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Gender" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="History" Type="nvarchar" MaxLength="2147483647" />
+  </EntityType>
+  <Association Name="FK_CollectionTable_0_0">
+    <End Role="PatientEntryTable" Type="Self.PatientEntryTable" Multiplicity="1" />
+    <End Role="CollectionTable" Type="Self.CollectionTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PatientEntryTable">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="CollectionTable">
+        <PropertyRef Name="id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PatientDBModelStoreContainer">
+    <EntitySet Name="CollectionTable" EntityType="Self.CollectionTable" store:Type="Tables" />
+    <EntitySet Name="PatientEntryTable" EntityType="Self.PatientEntryTable" store:Type="Tables" />
+    <AssociationSet Name="FK_CollectionTable_0_0" Association="Self.FK_CollectionTable_0_0">
+      <End Role="PatientEntryTable" EntitySet="PatientEntryTable" />
+      <End Role="CollectionTable" EntitySet="CollectionTable" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PatientDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="PatientDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CollectionTable" EntityType="PatientDBModel.CollectionTable" />
+    <EntitySet Name="PatientEntryTable" EntityType="PatientDBModel.PatientEntryTable" />
+    <AssociationSet Name="FK_CollectionTable_0_0" Association="PatientDBModel.FK_CollectionTable_0_0">
+      <End Role="PatientEntryTable" EntitySet="PatientEntryTable" />
+      <End Role="CollectionTable" EntitySet="CollectionTable" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CollectionTable">
+    <Key>
+      <PropertyRef Name="CollectionID" />
+    </Key>
+    <Property Name="CollectionID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id" Type="Int64" Nullable="false" />
+    <Property Name="Fee" Type="Int32" Nullable="false" />
+    <Property Name="Outstanding" Type="Int32" Nullable="false" />
+    <Property Name="Treatment" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Rx" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Date" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="PatientEntryTable" Relationship="PatientDBModel.FK_CollectionTable_0_0" FromRole="CollectionTable" ToRole="PatientEntryTable" />
+  </EntityType>
+  <EntityType Name="PatientEntryTable">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Age" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNo" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Gender" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="History" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CollectionTable" Relationship="PatientDBModel.FK_CollectionTable_0_0" FromRole="PatientEntryTable" ToRole="CollectionTable" />
+  </EntityType>
+  <Association Name="FK_CollectionTable_0_0">
+    <End Type="PatientDBModel.PatientEntryTable" Role="PatientEntryTable" Multiplicity="1" />
+    <End Type="PatientDBModel.CollectionTable" Role="CollectionTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PatientEntryTable">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="CollectionTable">
+        <PropertyRef Name="id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

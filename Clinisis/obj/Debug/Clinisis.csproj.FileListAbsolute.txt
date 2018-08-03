@@ -1,0 +1,88 @@
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Clinisis.exe.config
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Clinisis.exe
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Clinisis.pdb
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Grid.Base.dll
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Grid.Windows.dll
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Shared.Base.dll
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Shared.Windows.dll
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.SpellChecker.Base.dll
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Tools.Base.dll
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Tools.Windows.dll
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Grid.Base.xml
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Grid.Windows.xml
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Shared.Base.xml
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Shared.Windows.xml
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.SpellChecker.Base.xml
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Tools.Base.xml
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Tools.Windows.xml
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\obj\Debug\Clinisis.csprojResolveAssemblyReference.cache
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\obj\Debug\Clinisis.HomePage.resources
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\obj\Debug\Clinisis.Properties.Resources.resources
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\obj\Debug\Clinisis.csproj.GenerateResource.Cache
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\obj\Debug\Clinisis.exe
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\obj\Debug\Clinisis.pdb
+c:\users\tes\documents\visual studio 2017\Projects\Clinisis\Clinisis\obj\Debug\Clinisis.MetroForm1.resources
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\x86\sqlite3.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\x64\sqlite3.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\EntityFramework.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\EntityFramework.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Debug\Clinisis.ConfigureForm.resources
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Clinisis.exe.manifest
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\Clinisis.application
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Debug\Clinisis.exe.manifest
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Debug\Clinisis.application
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Debug\Clinisis.csproj.Clinisis.exe.config
+E:\New Development\Clinisis\Clinisis\bin\Debug\x86\e_sqlite3.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\x64\e_sqlite3.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\Clinisis.exe.config
+E:\New Development\Clinisis\Clinisis\bin\Debug\Clinisis.exe.manifest
+E:\New Development\Clinisis\Clinisis\bin\Debug\Clinisis.application
+E:\New Development\Clinisis\Clinisis\bin\Debug\Clinisis.exe
+E:\New Development\Clinisis\Clinisis\bin\Debug\Clinisis.pdb
+E:\New Development\Clinisis\Clinisis\bin\Debug\EntityFramework.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\EntityFramework.SqlServer.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\MetroFramework.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\System.Data.SQLite.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\System.Data.SQLite.EF6.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\System.Data.SQLite.Linq.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\EntityFramework.xml
+E:\New Development\Clinisis\Clinisis\bin\Debug\EntityFramework.SqlServer.xml
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Grid.Base.xml
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Shared.Base.xml
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Tools.Base.xml
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\New Development\Clinisis\Clinisis\bin\Debug\System.Data.SQLite.xml
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.csprojResolveAssemblyReference.cache
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.AppointMentEntry.resources
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.ConfigureForm.resources
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.DiagnosticBox.resources
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.ConsolidatedPaymentForm.resources
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.MasterForm.resources
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.MetroForm1.resources
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.PatientForm.resources
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.Properties.Resources.resources
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.csproj.GenerateResource.Cache
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.exe.manifest
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.application
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.exe
+E:\New Development\Clinisis\Clinisis\obj\Debug\Clinisis.pdb
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Grid.Base.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Shared.Base.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Tools.Base.dll
+E:\New Development\Clinisis\Clinisis\bin\Debug\Syncfusion.Tools.Windows.dll

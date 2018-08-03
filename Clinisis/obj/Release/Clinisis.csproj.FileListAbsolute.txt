@@ -1,0 +1,94 @@
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\x86\sqlite3.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\x64\sqlite3.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\x86\e_sqlite3.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\x64\e_sqlite3.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Clinisis.exe.config
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Clinisis.exe
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Clinisis.pdb
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\EntityFramework.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\SQLite-net.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Grid.Base.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Grid.Windows.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Shared.Base.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Shared.Windows.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.SpellChecker.Base.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Tools.Base.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Tools.Windows.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\System.Data.SQLite.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\EntityFramework.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\SQLite-net.pdb
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\SQLite-net.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Grid.Base.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Grid.Windows.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Shared.Base.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Shared.Windows.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Tools.Base.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Tools.Windows.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\System.Data.SQLite.xml
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Release\Clinisis.ConfigureForm.resources
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Release\Clinisis.HomePage.resources
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Release\Clinisis.MetroForm1.resources
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Release\Clinisis.Properties.Resources.resources
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Release\Clinisis.csproj.GenerateResource.Cache
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Release\Clinisis.exe
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Release\Clinisis.pdb
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Clinisis.exe.manifest
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\bin\Release\Clinisis.application
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Release\Clinisis.exe.manifest
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Release\Clinisis.application
+C:\Users\Tes\Documents\Visual Studio 2017\Projects\Clinisis\Clinisis\obj\Release\Clinisis.csprojResolveAssemblyReference.cache
+E:\New Development\Clinisis\Clinisis\bin\Release\Clinisis.exe.config
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.exe
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.pdb
+E:\New Development\Clinisis\Clinisis\bin\Release\x86\e_sqlite3.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\x64\e_sqlite3.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\Clinisis.exe.manifest
+E:\New Development\Clinisis\Clinisis\bin\Release\Clinisis.application
+E:\New Development\Clinisis\Clinisis\bin\Release\Clinisis.exe
+E:\New Development\Clinisis\Clinisis\bin\Release\Clinisis.pdb
+E:\New Development\Clinisis\Clinisis\bin\Release\EntityFramework.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\EntityFramework.SqlServer.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\MetroFramework.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Grid.Base.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Grid.Windows.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Shared.Base.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Shared.Windows.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.SpellChecker.Base.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Tools.Base.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Tools.Windows.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\System.Data.SQLite.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\System.Data.SQLite.EF6.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\System.Data.SQLite.Linq.dll
+E:\New Development\Clinisis\Clinisis\bin\Release\EntityFramework.xml
+E:\New Development\Clinisis\Clinisis\bin\Release\EntityFramework.SqlServer.xml
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Grid.Base.xml
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Grid.Windows.xml
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Shared.Base.xml
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Shared.Windows.xml
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.SpellChecker.Base.xml
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Tools.Base.xml
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Tools.Windows.xml
+E:\New Development\Clinisis\Clinisis\bin\Release\System.Data.SQLite.xml
+E:\New Development\Clinisis\Clinisis\bin\Release\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.AppointMentEntry.resources
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.ConfigureForm.resources
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.DiagnosticBox.resources
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.ConsolidatedPaymentForm.resources
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.MasterForm.resources
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.MetroForm1.resources
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.PatientForm.resources
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.Properties.Resources.resources
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.csproj.GenerateResource.Cache
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.exe.manifest
+E:\New Development\Clinisis\Clinisis\obj\Release\Clinisis.application

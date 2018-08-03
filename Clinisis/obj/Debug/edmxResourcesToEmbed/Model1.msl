@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PatientDBModelStoreContainer" CdmEntityContainer="PatientDBEntities">
+    <EntitySetMapping Name="CollectionTable">
+      <EntityTypeMapping TypeName="PatientDBModel.CollectionTable">
+        <MappingFragment StoreEntitySet="CollectionTable">
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Rx" ColumnName="Rx" />
+          <ScalarProperty Name="Treatment" ColumnName="Treatment" />
+          <ScalarProperty Name="Outstanding" ColumnName="Outstanding" />
+          <ScalarProperty Name="Fee" ColumnName="Fee" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="CollectionID" ColumnName="CollectionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PatientEntryTable">
+      <EntityTypeMapping TypeName="PatientDBModel.PatientEntryTable">
+        <MappingFragment StoreEntitySet="PatientEntryTable">
+          <ScalarProperty Name="History" ColumnName="History" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,12 @@
+
+
+Date:2017-09-08 17:34:38,306
+Thread:[1]
+Level:ERROR
+Logger:SyncfusionItemTemplates.ViewModel                         [(null)]
+Message:System.Runtime.InteropServices.COMException (0x80004005): A file with the name 'AddPatientsForm.cs' already exists and is open in an editor. Please give a unique name to the item you are adding, or delete the existing item first.
+   at EnvDTE.ProjectItems.AddFromTemplate(String FileName, String Name)
+   at Microsoft.VisualStudio.TemplateWizard.Wizard.EnumContentsAddItem(ProjectItems projectItems, XmlNode contentNode, String projectName, String currentFolder, String currentTargetFolder, String rootName, String templateFolderPath, String destinationRootFolderPath, String userSpecifiedDestItemPath, String projectTypeString, List`1 wizardExtensions, String rootExtension)
+   at Microsoft.VisualStudio.TemplateWizard.Wizard.Execute(Object application, Int32 hwndOwner, Object[]& ContextParams, Object[]& CustomParams, wizardResult& retval)
+   at EnvDTE.ProjectItems.AddFromTemplate(String FileName, String Name)
+   at SyncfusionItemTemplates.ViewModel.AddItemClicked() in D:\Work\SVN\15.3.0.1\Utilities\VSExtension\SyncfusionItemTemplates\SyncfusionItemTemplates\ViewModel\ViewModel.cs:line 639
